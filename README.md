@@ -1,4 +1,6 @@
-For more information, please see https://jiezheng.org.
+Hi👋, I'm Jie Zheng.
+
+A super junior programmer.
 
 <!--
 **prettykingking/prettykingking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
